@@ -9,7 +9,7 @@ This repository contains my solution for the Museum of Candy exercise focused on
 3. Credits
 4. Description
 
-The Museum of Candy project is a hands-on exercise aimed at practicing website development using Bootstrap. The goal is to design and build a responsive website for a candy museum, showcasing various candy exhibits, attractions, and information.
+The Museum of Candy project is a hands-on exercise aimed at practicing website development using Bootstrap. The goal is to design and build a responsive website for a candy museum, showcasing how a simple website displaying general information (like a "about us" section and openingtimes) could be designed.
 
 I utilized Bootstrap, an open-source front-end framework, to streamline the development process and ensure a consistent and visually appealing design across different devices and screen sizes. By leveraging Bootstrap's components, grid system, and responsive utilities, I was able to create a modern and responsive website for the Museum of Candy.
 
@@ -22,4 +22,4 @@ I utilized Bootstrap, an open-source front-end framework, to streamline the deve
 - Git
 
 # Credits
-The instructions and design concept for this exercise were provided by the course/tutorial. I would like to express my gratitude for the valuable guidance and resources that made this project possible.
+The instructions and design concept for this exercise were provided by The Web Developer Bootcamp 2023 given by Colt Steele. I would like to express my gratitude for the lessons and resources that made this project possible.
