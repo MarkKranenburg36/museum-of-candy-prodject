@@ -1,9 +1,9 @@
-#Museum of Candy Project
-###Bootstrap Website Exercise - Museum of Candy
+# Museum of Candy Project
+### Bootstrap Website Exercise - Museum of Candy
 
 This repository contains my solution for the Museum of Candy exercise focused on creating a website using Bootstrap. The exercise involved building a responsive and visually appealing website for a fictional candy museum, following the provided instructions.
 
-#Table of Contents
+# Table of Contents
 1. Description
 2. Technologies Used
 3. Credits
@@ -20,5 +20,5 @@ Technologies Used
 - Linux Command Line
 - Git
 
-#Credits
+# Credits
 The instructions and design concept for this exercise were provided by the course/tutorial. I would like to express my gratitude for the valuable guidance and resources that made this project possible.
