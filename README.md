@@ -12,7 +12,7 @@ The Museum of Candy project is a hands-on exercise aimed at practicing website d
 
 I utilized Bootstrap, an open-source front-end framework, to streamline the development process and ensure a consistent and visually appealing design across different devices and screen sizes. By leveraging Bootstrap's components, grid system, and responsive utilities, I was able to create a modern and responsive website for the Museum of Candy.
 
-Technologies Used
+## Technologies Used
 - HTML
 - CSS
 - Bootstrap
