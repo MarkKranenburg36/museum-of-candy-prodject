@@ -48,7 +48,6 @@ body {
     margin-top: 100px;
   }
 
-
   @media (max-width: 1650px) {
     #headingGroup h1 {
       font-size: 4rem;
